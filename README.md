@@ -1,0 +1,1 @@
+Домашние задания и итоговый проект по библиотекам Python:  Numpy, Matplotlib, Scikit-learn
